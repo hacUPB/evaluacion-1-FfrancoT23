@@ -1,27 +1,29 @@
+<H1> EVALUACION1 </H1>
+Cree la carpeta que necesitaba, clone el repositorio, cambie el archivo wcat.c, cree un init en donde guarde los cambios
 
-In this directory, you should write the program `wcat.c` and compile it into
-the binary `wcat` (e.g., `gcc -o wcat wcat.c -Wall -Werror`).
+hypervinculo: https://github.com/hacUPB/evaluacion-1-FfrancoT23.git
 
-After doing so, you can run the tests from this directory by running the
-`test-wcat.sh` script. If all goes well, you will see:
+![alt text](https://i.imgur.com/iAT7U0K.jpeg)
 
-```sh
-prompt> ./test-wcat.sh
-test 1: passed
-test 2: passed
-test 3: passed
-test 4: passed
-test 5: passed
-test 6: passed
-test 7: passed
-prompt>
-```
+Lisado comados git hub:
+1. 
+Cd (entrar carpetas)
+2. 
+ls (Comprovar contenido de carpetas)
+3. 
+mkdir (Crear carpeta)
+4. 
+Code . (ingresar visual)
+5. 
+git clone (clonar repositorio-sincronicar con el repositorio)
 
-The `test-wcat.sh` script is just a wrapper for the `run-tests.sh` script in
-the `tester` directory of this repository. This program has a few options; see
-the relevant
-[README](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/tester/README.md)
-for details.
-
-
+(adicionar wcat.c al stage 6 y 7)
+6. 
+git add (adicionar carpetas)
+7. 
+git init (Crear un stage)
+8. 
+git commit (crar el commit)
+9. 
+git log (verificar la creacion del commit)
 
